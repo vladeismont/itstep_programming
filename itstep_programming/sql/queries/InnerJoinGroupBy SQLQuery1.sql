@@ -1,0 +1,17 @@
+﻿SELECT a.[CUSTOMER_ID], a.[NAME], SUM(b.[AMOUNT]) AS [TOTAL AMOUNT]
+FROM RES_DATA a INNER JOIN INV_DATA b
+ON a.[CUSTOMER_ID]=b.[CUSTOMER_ID]
+GROUP BY a.[CUSTOMER_ID], a.[NAME]
+--RES_DATA Contains my Customer as below
+--CUSTOMER ID | NAME
+--1, Robert
+--2, John
+--3, Peter
+
+--INV_DATA Contains their INVOICES as Below
+--INVOICE ID | CUSTOMER ID | AMOUNT
+--100, 1, £49.95
+--200, 1, £105.95
+--300, 2, £400.00
+--400, 3, £150.00
+--500, 1, £25.00

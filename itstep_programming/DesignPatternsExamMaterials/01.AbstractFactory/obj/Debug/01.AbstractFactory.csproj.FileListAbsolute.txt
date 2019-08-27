@@ -1,0 +1,11 @@
+D:\Design patterns\DesignPatternsExamMaterials\01.AbstractFactory\bin\Debug\01.AbstractFactory.exe.config
+D:\Design patterns\DesignPatternsExamMaterials\01.AbstractFactory\bin\Debug\01.AbstractFactory.exe
+D:\Design patterns\DesignPatternsExamMaterials\01.AbstractFactory\bin\Debug\01.AbstractFactory.pdb
+D:\Design patterns\DesignPatternsExamMaterials\01.AbstractFactory\obj\Debug\01.AbstractFactory.exe
+D:\Design patterns\DesignPatternsExamMaterials\01.AbstractFactory\obj\Debug\01.AbstractFactory.pdb
+D:\Step\Design Patterns\DesignPatternsExamMaterials\01.AbstractFactory\bin\Debug\01.AbstractFactory.exe.config
+D:\Step\Design Patterns\DesignPatternsExamMaterials\01.AbstractFactory\bin\Debug\01.AbstractFactory.exe
+D:\Step\Design Patterns\DesignPatternsExamMaterials\01.AbstractFactory\bin\Debug\01.AbstractFactory.pdb
+D:\Step\Design Patterns\DesignPatternsExamMaterials\01.AbstractFactory\obj\Debug\01.AbstractFactory.csprojResolveAssemblyReference.cache
+D:\Step\Design Patterns\DesignPatternsExamMaterials\01.AbstractFactory\obj\Debug\01.AbstractFactory.exe
+D:\Step\Design Patterns\DesignPatternsExamMaterials\01.AbstractFactory\obj\Debug\01.AbstractFactory.pdb

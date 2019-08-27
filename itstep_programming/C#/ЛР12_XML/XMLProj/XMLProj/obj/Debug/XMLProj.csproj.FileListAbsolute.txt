@@ -1,0 +1,9 @@
+C:\Temp\XMLProj\XMLProj\bin\Debug\XMLProj.exe.config
+C:\Temp\XMLProj\XMLProj\bin\Debug\XMLProj.exe
+C:\Temp\XMLProj\XMLProj\bin\Debug\XMLProj.pdb
+C:\Temp\XMLProj\XMLProj\obj\Debug\XMLProj.csprojResolveAssemblyReference.cache
+C:\Temp\XMLProj\XMLProj\obj\Debug\XMLProj.exe
+C:\Temp\XMLProj\XMLProj\obj\Debug\XMLProj.pdb
+U:\П11816\C#\ЛР12_XML\XMLProj\XMLProj\bin\Debug\XMLProj.exe.config
+U:\П11816\C#\ЛР12_XML\XMLProj\XMLProj\obj\Debug\XMLProj.exe
+U:\П11816\C#\ЛР12_XML\XMLProj\XMLProj\obj\Debug\XMLProj.pdb

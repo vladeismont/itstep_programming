@@ -1,0 +1,15 @@
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.csprojResolveAssemblyReference.cache
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+C:\Users\st.ITSTEP.000\Documents\Visual Studio 2013\Projects\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
+D:\eismontvlad\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+D:\eismontvlad\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+D:\eismontvlad\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb
+D:\Step\11816\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe.config
+D:\Step\11816\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.exe
+D:\Step\11816\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\bin\Debug\ConsoleApplication20.pdb
+D:\Step\11816\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.csprojResolveAssemblyReference.cache
+D:\Step\11816\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.exe
+D:\Step\11816\C#\Индексаторы\ConsoleApplication20\ConsoleApplication20\obj\Debug\ConsoleApplication20.pdb

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c9e3fe3-323f-490b-a8b8-257b7ad928ca" name="p31816" url="http://ftp.fofan.by">
+        <fileTransfer host="ftp.fofan.by" port="21" password="dfdadf99df9bdf92df9bdf9c" username="p31816@p31816.fofan.by">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

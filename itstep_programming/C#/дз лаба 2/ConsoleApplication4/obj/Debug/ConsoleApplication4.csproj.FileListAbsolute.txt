@@ -1,0 +1,18 @@
+D:\Levikov_Victor_51015\CPP\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Levikov_Victor_51015\CPP\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Levikov_Victor_51015\CPP\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Levikov_Victor_51015\CPP\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\Levikov_Victor_51015\CPP\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Levikov_Victor_51015\CPP\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Step\11816\C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Step\11816\C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Step\11816\C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Step\11816\C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Step\11816\C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Step\11816\C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\Step\11816\C#\дз лаба 2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Step\11816\C#\дз лаба 2\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Step\11816\C#\дз лаба 2\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Step\11816\C#\дз лаба 2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Step\11816\C#\дз лаба 2\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Step\11816\C#\дз лаба 2\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache

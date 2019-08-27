@@ -1,0 +1,55 @@
+@import "_reset.css";
+
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color: #ccc;
+}
+
+.wrapper {
+    height: 100%;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: blue;
+}
+
+.main {
+    background-color: purple;
+    flex: 1 0 auto;
+    display: flex;
+}
+
+.footer {
+    background-color: gray;
+    flex: 0 0 auto;
+}
+
+.aside {
+    max-width: 240px;
+    flex: 1 0 240px;
+    background-color: yellow;
+}
+
+.content {
+    display: block;
+    flex: 1;
+    background-color: #fff;
+}
+
+.main-inner {
+    display: flex;
+}
+
+.container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

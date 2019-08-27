@@ -1,0 +1,19 @@
+stylesheet
+
+id #id_name{} -id самый сильный 100points
+class .class_name{} -class 10points
+tag - 1point
+style - 1000 points
+attribute [attribute_name]{}
+
+div p {} - для P которые находятся в div-ах - называется комбинатор 2 points
+div>p {} - те P которые непосредственно находятся в div
+div+p {}
+div~p {}
+
+flex к классу
+.class{
+display: flex;
+justify-content:space-between;
+allight-items:center;
+}

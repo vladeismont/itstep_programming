@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.bgc-light-gray{
+    background-color: #DDDDDD;
+}
+
+.py-2{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}

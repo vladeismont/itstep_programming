@@ -1,0 +1,12 @@
+.company{
+    display: block;
+    background: white;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    box-shadow: 2px 4px 4px gray;
+    transition: all .4s;
+}
+
+.company:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,45 @@
+.company{
+    display: block;
+    background-color: white;
+    box-shadow: 0 2px 4px gray ;
+    margin: .25rem 0;
+    border-radius: 2px;
+    transition: all .4s;
+}
+
+.company:hover{
+    transform: scale(1.05);
+}
+
+.company__description{
+    color: gray;
+
+}
+
+.company__bottom{
+    padding: 1rem;
+    position: relative;
+}
+
+.company__top{
+    padding: 1rem;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.company__img{
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+}
+
+.company__days{
+    position: absolute;
+    left:0;
+    top: -20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

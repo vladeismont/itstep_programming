@@ -1,0 +1,12 @@
+#calendar div{
+    width: 50px;	height: 50px; /* Размеры */
+    background: #fc0; /* Цвет фона */
+    outline: mediumblue;
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 10px; /* Радиус скругления */
+    float:left;
+}
+#calendar{
+    width: 350px;	height: 350px;
+
+}

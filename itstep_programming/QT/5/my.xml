@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+	<persona>
+		<name>John</name>
+		<age>12</age>
+		<color>white</color>
+	</persona>
+	<persona hands="3">
+		<name>Nick</name>
+		<age>25</age>
+		<color>black</color>
+	</persona>
+	<persona>
+		<name>Bob</name>
+		<age>34</age>
+		<color>red</color>
+	</persona>
+</group>

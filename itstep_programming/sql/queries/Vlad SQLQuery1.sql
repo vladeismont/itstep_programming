@@ -1,0 +1,48 @@
+--CREATE TABLE Ocenki (
+--    idZan int NOT NULL,
+--    FIO nchar(20) NOT NULL,
+--	gryppa int not null,
+--    bal tinyint NOT NULL
+--);
+
+--insert into Raspisanie(id, datez, prepod, predmet) values(
+--	101, '06-01-2017','Zlo Z.Z.','P1'),
+--	(102, '06-01-2017','Alex A.A.','P2'),
+--	(103, '06-02-2017','Zlo Z.Z.','P1'),
+--	(104, '06-03-2017','Zlo Z.Z.','P1'),
+--	(105, '06-03-2017','Alex A.A.','P2'),
+--	(106, '06-04-2017','Zlo Z.Z.','P1'),
+--	(107, '06-04-2017','Alex A.A.','P2'),
+--	(108, '06-06-2017','Zlo Z.Z.','P11'),
+--	(109, '06-06-2017','Alex A.A.','P22')
+
+--insert into Ocenki(idZan,FIO,gryppa,bal)values
+	--(101,'Ivanov I.I.', 10, 9),--p1 Zlo ZZ
+	--(101,'Oksana A.B.', 10, 9),--p1
+	--(101,'Luba A.C.', 10, 9),--p1
+	--(102,'Samanta C.C.', 20, 8),--p2 Alex AA
+	--(102,'Barbara K.K.', 20, 8),--p2
+	--(102,'Oleg E.E.', 20, 8),--p2
+	--(103,'Ivanov I.I.', 10, 9),--p1 Zlo ZZ
+	--(103,'Oksana A.B.', 10, 9),--p1
+	--(103,'Luba A.C.', 10, 9),--p1
+	--(104,'Ivanov I.I.', 10, 8),--p1 Zlo ZZ
+	--(104,'Oksana A.B.', 10, 8),--p1
+	--(104,'Luba A.C.', 10, 8),--p1
+	--(105,'Samanta C.C.', 20, 8),--p2 Alex AA
+	--(105,'Barbara K.K.', 20, 8),--p2
+	--(105,'Oleg E.E.', 20, 8),--p2
+	--(106,'Ivanov I.I.', 10, 8),--p1 Zlo ZZ
+	--(106,'Oksana A.B.', 10, 8),--p1
+	--(106,'Luba A.C.', 10, 8),--p1
+	--(107,'Samanta C.C.', 20, 7),--p2 Alex AA
+	--(107,'Barbara K.K.', 20, 7),--p2
+	--(107,'Oleg E.E.', 20, 7),--p2
+	--(108,'Ivanov I.I.', 10, 6),--p1 Zlo ZZ
+	--(108,'Oksana A.B.', 10, 6),--p1
+	--(108,'Luba A.C.', 10, 6),--p1
+	--(109,'Samanta C.C.', 20, 6),--p2 Alex AA
+	--(109,'Barbara K.K.', 20, 6),--p2
+	--(109,'Oleg E.E.', 20, 6)--p2
+
+--delete from Ocenki

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<departments>
+<department name="Economics">
+  <group id="623951">
+    <user name="Lenin">
+      user1
+    </user>
+    <user name="Dimin"></user>
+  </group>
+  <group id="325">
+    <user name="Lenin">
+      user1
+    </user>
+    <user name="Dimin"></user>
+  </group>
+ Домик
+</department>
+  <department name="Physics">
+    <group id="112541">
+      <user name="Sinicin">Пользователь 2</user>
+      <user name="Travkin">Пользователь 3</user>
+    </group>
+  </department>
+
+</departments>

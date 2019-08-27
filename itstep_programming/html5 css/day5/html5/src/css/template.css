@@ -1,0 +1,78 @@
+@import "_reset.css";
+
+body,html{
+    height: 100%;
+}
+.wrapper{
+    height: 100%;
+    background-color: darkviolet;
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color: burlywood;
+}
+
+.header {
+background-color: #99ee99;
+}
+.main{
+    background-color: aqua;
+    flex: 1 0 auto;
+    display:flex;
+}
+.footer{
+    background-color: darkcyan;
+    flex: 0 0 auto;
+}
+.container{
+    max-width: 1200px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.aside{
+    background-color: yellow;
+    flex: 1 0 240px;
+    max-width: 240px;
+}
+.content{
+    background-color: white;
+    display:block;
+    flex:1;
+}
+.main-inner{
+    display:flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+C:\Temp\ParamsAndIterators\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Temp\ParamsAndIterators\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Temp\ParamsAndIterators\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Temp\ParamsAndIterators\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Temp\ParamsAndIterators\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Temp\ParamsAndIterators\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Step\11816\C#\Параметризированные классы и Итераторы\ParamsAndIterators\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Step\11816\C#\Параметризированные классы и Итераторы\ParamsAndIterators\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Step\11816\C#\Параметризированные классы и Итераторы\ParamsAndIterators\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

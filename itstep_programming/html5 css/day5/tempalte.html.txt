@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="src/css/tempalte.css">
+</head>
+<body>
+<div class="wrapper">
+    <header class="header">
+        <div class="container">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur cum deleniti eius,
+            hic incidunt laudantium molestias nobis officia reiciendis similique. Accusantium blanditiis, cumque dolore
+            minima mollitia sapiente tempora? Cum, expedita!
+        </div>
+    </header>
+    <div class="main">
+        <div class="container main-inner">
+            <aside class="aside">
+                sidebar
+            </aside>
+            <main class="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores eos ex facilis illum
+                magni maxime, natus ratione soluta ullam. A ad architecto dolor explicabo illo minima nesciunt non
+                placeat quasi.
+            </main>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="container">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur cum deleniti eius,
+            hic incidunt laudantium molestias nobis officia reiciendis similique. Accusantium blanditiis, cumque dolore
+            minima mollitia sapiente tempora? Cum, expedita!
+        </div>
+    </footer>
+</div>
+</body>
+</html>

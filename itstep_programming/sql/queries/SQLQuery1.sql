@@ -1,0 +1,43 @@
+--select  distinct FIO,bal from dbo.View_V A 
+--  where A.bal =  
+-- (select max(B.bal) from dbo.View_V B 
+--	where A.FIO=B.FIO
+--	  and B.bal >
+--	 (select avg(C.bal) from dbo.View_V C 
+--		where B.FIO=C.FIO and A.FIO=C.FIO
+--	 )
+-- ) 
+select top 2 FIO,avg(bal) from dbo.View_V 
+--select top 2 FIO,avg(bal) from dbo.View_V 
+group by FIO 
+--having avg(bal) = min(bal)
+order by avg(bal) desc
+--select  distinct FIO,bal from dbo.View_V A
+--where A.bal =  
+-- (select avg(C.bal) from dbo.View_V C 
+--		where A.FIO=C.FIO
+--	 )
+--select   FIO,min(bal),avg(bal),max(bal) from dbo.View_V 
+--group by FIO 
+--having avg(bal) = min(bal)
+--order by FIO
+--select distinct FIO,bal = (select avg(bal) from dbo.View_V B 
+--						    where A.FIO=B.FIO
+--					      ) 
+-- from dbo.View_V A
+-- order by FIO 
+--
+--select * from dbo.View_V   
+-- order by datez,gryppa,FIO ; 
+--select * from dbo.Raspisanie 
+-- where id=104 ;
+--update dbo.Raspisanie set tema='DDDDDDDDDDDDDDD'
+-- where id=104 ;
+--Alter Table dbo.Raspisanie add tema varchar(50)  null;
+--DECLARE @date date = '20170601 09:00:00.000'; 
+--where Ocenki.data1 = @date
+--delete from Ocenki; 
+--select * from dbo.Ocenki
+-- order by gryppa,idzan;
+--select id,datez,predmet,prepod,tema from dbo.Raspisanie
+--order by id,datez;

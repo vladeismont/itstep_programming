@@ -1,0 +1,5 @@
+1. Emmet разобратьс€ с написанием кода 
+https://webdesign-master.ru/blog/html-css/2.html
+
+2. –азобратьс€ c тегами:
+	a, img, form, input, title, ul

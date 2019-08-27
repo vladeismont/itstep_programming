@@ -1,0 +1,73 @@
+CREATE TABLE [dbo].[People] (
+    [Id]             INT            IDENTITY (1, 1) NOT NULL,
+    [Firstname]      NVARCHAR (MAX) NOT NULL,
+    [Lastname]       NVARCHAR (MAX) NOT NULL,
+    [Birthdate]      DATE           NULL,
+    [PersonalNumber] CHAR (16)      NULL,
+    [MoodId]         INT            NULL,
+    [numPhones]      INT            DEFAULT ((0)) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+go
+
+
+SET IDENTITY_INSERT [dbo].[People] ON
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (1, N'Lala', N'Ava', NULL, N'11              ', 1, 3)
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (2, N'Lol', N'Orava', NULL, N'12              ', 1, 1)
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (3, N'Col', N'Lama', NULL, N'13              ', 2, 0)
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (4, N'Basha', N'Rama', NULL, N'14              ', 2, 0)
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (5, N'Wnshu', N'Krshna', NULL, N'15              ', 1, 0)
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (6, N'Rinpoche', N'Patrol', NULL, N'16              ', 3, 0)
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (7, N'Krala', N'Ava', NULL, N'17              ', 1, 0)
+INSERT INTO [dbo].[People] ([Id], [Firstname], [Lastname], [Birthdate], [PersonalNumber], [MoodId], [numPhones]) VALUES (8, N'Mlavaja', N'Ava', NULL, N'18              ', 2, 0)
+SET IDENTITY_INSERT [dbo].[People] OFF
+
+GO 
+
+CREATE TABLE [dbo].[Phones] (
+    [Id]        INT           IDENTITY (1, 1) NOT NULL,
+    [people_id] INT           NOT NULL,
+    [phone]     VARCHAR (MAX) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_Phones_To_People] FOREIGN KEY ([people_id]) REFERENCES [dbo].[People] ([Id]) ON DELETE CASCADE
+);
+
+
+GO
+CREATE NONCLUSTERED INDEX [IX_Phones_Column]
+    ON [dbo].[Phones]([people_id] ASC);
+
+GO
+
+SET IDENTITY_INSERT [dbo].[Phones] ON
+INSERT INTO [dbo].[Phones] ([Id], [people_id], [phone]) VALUES (2078, 1, N'1242')
+INSERT INTO [dbo].[Phones] ([Id], [people_id], [phone]) VALUES (2079, 1, N'45-3f')
+INSERT INTO [dbo].[Phones] ([Id], [people_id], [phone]) VALUES (2080, 2, N'2-232')
+INSERT INTO [dbo].[Phones] ([Id], [people_id], [phone]) VALUES (2081, 1, N'5446')
+SET IDENTITY_INSERT [dbo].[Phones] OFF
+
+
+
+
+
+
+
+
+
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            SqlCommand command = new SqlCommand("UPDATE Phones SET Phone = @prefix + Phone", connection);
+            command.Parameters.AddWithValue("@prefix", "ZHU");
+            int rows = command.ExecuteNonQuery();
+            Console.WriteLine("{0} rows affected", rows);
+        }
+
+
+
+
+
+
+

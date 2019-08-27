@@ -1,0 +1,12 @@
+c:\temp\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\temp\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\temp\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\temp\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\temp\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\temp\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+U:\!Б21816\C#\Делегаты\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+U:\!Б21816\C#\Делегаты\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+U:\!Б21816\C#\Делегаты\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\eismontvlad\C#\Делегаты\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\eismontvlad\C#\Делегаты\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\eismontvlad\C#\Делегаты\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

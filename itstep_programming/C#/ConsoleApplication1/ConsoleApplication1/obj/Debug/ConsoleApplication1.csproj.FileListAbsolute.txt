@@ -1,0 +1,6 @@
+D:\Levikov_Victor_51015\CPP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Levikov_Victor_51015\CPP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Levikov_Victor_51015\CPP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Levikov_Victor_51015\CPP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Levikov_Victor_51015\CPP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Levikov_Victor_51015\CPP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

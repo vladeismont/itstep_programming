@@ -1,0 +1,18 @@
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\влад\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Step\11816\WinForms\BestOil\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+D:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.LoginForm.resources
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.LoginForm.resources
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\Step\П41016\ado net\New folder\WindowsFormsApplication6.3\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb

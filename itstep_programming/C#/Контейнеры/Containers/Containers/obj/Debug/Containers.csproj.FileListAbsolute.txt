@@ -1,0 +1,6 @@
+C:\Temp\Containers\Containers\bin\Debug\Containers.exe.config
+C:\Temp\Containers\Containers\bin\Debug\Containers.exe
+C:\Temp\Containers\Containers\bin\Debug\Containers.pdb
+C:\Temp\Containers\Containers\obj\Debug\Containers.csprojResolveAssemblyReference.cache
+C:\Temp\Containers\Containers\obj\Debug\Containers.exe
+C:\Temp\Containers\Containers\obj\Debug\Containers.pdb

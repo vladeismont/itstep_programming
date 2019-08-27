@@ -1,0 +1,1 @@
+exec percent_from_Departure_City Minsk
