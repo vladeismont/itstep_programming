@@ -8,25 +8,29 @@ namespace ConsoleApplication3
 {
     class Account
     {
-        public event MyEvent ev;
-        public event MyEvent1 ev1;
-        protected int _sum; // Переменная для хранения суммы
-        public void Withdraw(int sum) {
-            if (_sum >= sum)
-            {
-                ev(sum);
-                _sum -= sum;
-            }
-            else { ev1(); }
-        }//  снятие денег со счёта
-        public void AddSum(int sum) { _sum += sum; }//  пополнение счёта
-        public void objwritesn9tiesoscheta(int x)
+        public delegate void AccountHandler(string message);
+        public event AccountHandler Notify;              // 1.Определение события
+        public Account(int sum)
         {
-            Console.WriteLine("Сумма {0} снята со счета", x);
+            Sum = sum;
         }
-        public void objwritenedostato4nodenegnaschete()
+        public int Sum { get; private set; }
+        public void Put(int sum)
         {
-            Console.WriteLine("Недостаточно денег на счете");
+            Sum += sum;
+            Notify?.Invoke($"На счет поступило: {sum}");   // 2.Вызов события 
+        }
+        public void Take(int sum)
+        {
+            if (Sum >= sum)
+            {
+                Sum -= sum;
+                Notify?.Invoke($"Со счета снято: {sum}");   // 2.Вызов события
+            }
+            else
+            {
+                Notify?.Invoke($"Недостаточно денег на счете. Текущий баланс: {Sum}"); ;
+            }
         }
     }
 }
