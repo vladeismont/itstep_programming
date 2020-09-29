@@ -1,0 +1,42 @@
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.pdb
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.g.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+E:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+E:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb
+G:\_П31016\WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\bin\Debug\Example1StructWPFapp.exe.config
+G:\_П31016\WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.exe
+G:\_П31016\WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example1StructWPFapp\obj\Debug\Example1StructWPFapp.pdb

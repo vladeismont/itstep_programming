@@ -1,0 +1,61 @@
+div {
+	/*border: 1px solid black;*/
+}
+
+.v_menu {
+
+}
+
+.header {
+	height: 150px;
+	background-color: aqua;
+}
+
+.footer {
+	height: 100px;
+	background-color: darkorange;
+}
+
+.menu {
+	float: left;
+	width:20%;
+}
+.r_menu {
+	float: right;
+	width:20%;
+	position: relative;
+}
+
+.content {
+	margin-left: 20%;
+	margin-right: 22%;
+	padding-left: 15px;
+	background-color: white;
+	position: relative;
+}
+
+.wrapper {
+	background-color: darkgreen;
+}
+
+.el {
+	border: 1px solid black;
+	background-color: darkorange;
+	padding: 10px;
+	margin:10px;
+	position: absolute;
+	top: 10px;
+	left:10px;
+	z-index: 12;
+}
+
+.el2 {
+	border: 1px solid black;
+	background-color: brown;
+	padding: 10px;
+	margin:10px;
+	position: absolute;
+	top: 25px;
+	left:25px;
+	z-index: -11;
+}

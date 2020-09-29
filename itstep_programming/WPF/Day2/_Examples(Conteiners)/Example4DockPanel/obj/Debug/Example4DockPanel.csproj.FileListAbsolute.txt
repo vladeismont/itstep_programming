@@ -1,0 +1,24 @@
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\bin\Debug\Example4DockPanel.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\bin\Debug\Example4DockPanel.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\bin\Debug\Example4DockPanel.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\Example4DockPanel_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\Example4DockPanel.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\Example4DockPanel.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\Example4DockPanel.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\Example4DockPanel.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example4DockPanel\obj\Debug\Example4DockPanel.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example4DockPanel\bin\Debug\Example4DockPanel.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\bin\Debug\Example4DockPanel.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\bin\Debug\Example4DockPanel.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.pdb
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\bin\Debug\Example4DockPanel.exe.config
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.exe
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel\obj\Debug\Example4DockPanel.pdb

@@ -1,0 +1,23 @@
+﻿<!-- Определние  класса (x:Class)  Example1StructWPFapp.MainWindow, наследующего класс Window-->
+<!--       
+    пространства имен 
+    -отображает множество связанных с WPF пространств имен для использования в текущем файле .xaml
+    (System.Windows, System.Windows.Controls, System.Windows.Data, System.Windows.Media и др.)
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    
+    -используется для подключения специфичных для XAML ключевых слов
+    (System.Windows.Markup)  
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ -->
+<Window x:Class="Example1StructWPFapp.MainWindow" x:ClassModifier="public"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      
+        Title="MainWindow" Height="350" Width="525">
+    
+ 
+    <Grid>
+        <Button x:Name="btnDemo" Content="Демо" Margin="150,120,150,120" x:FieldModifier="public"></Button>
+    </Grid>
+</Window>

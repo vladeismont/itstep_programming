@@ -1,0 +1,15 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\bin\Debug\Example5ValueConverter.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example5ValueConverter.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example5ValueConverter.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\bin\Debug\Example5ValueConverter.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\bin\Debug\Example5ValueConverter.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example6ValueConverter.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example5ValueConverter_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example5ValueConverter_MarkupCompile.lref
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example5ValueConverter.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example5ValueConverter.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example5ValueConverter\obj\Debug\Example6ValueConverter.csproj.GenerateResource.Cache

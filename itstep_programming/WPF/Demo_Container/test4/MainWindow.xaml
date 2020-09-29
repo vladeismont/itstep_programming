@@ -1,0 +1,37 @@
+﻿<Window x:Class="test4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Orientation="Vertical">
+            <Label>Личная информация</Label>
+            <Label Margin="5">ФИО</Label>
+            <TextBox></TextBox>
+            <Label Margin="5">возраст</Label>
+            <TextBox></TextBox>
+            <Label Margin="5">Семейное положение</Label>
+            <TextBox></TextBox>
+            <Label Margin="5">Адрес</Label>
+            <TextBox></TextBox>
+            <Label Margin="5">Эл. ящик</Label>
+            <TextBox></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Orientation="Vertical">
+            <Label>Технологии</Label>
+
+        </StackPanel>
+        <StackPanel Grid.Column="2" Orientation="Vertical">
+            <Label>Должность</Label>
+
+        </StackPanel>
+    </Grid>
+</Window>

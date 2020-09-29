@@ -1,0 +1,13 @@
+﻿<Window x:Class="DemoDockPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel LastChildFill="True">
+        <Button Content="Menu" DockPanel.Dock="Top"></Button>
+        <Button Content="ToolBoxPanel" DockPanel.Dock="Left"></Button>
+
+        <Button Content="ToolBar" DockPanel.Dock="Top"></Button>
+        <Button Content="StatusPanel" DockPanel.Dock="Bottom"></Button>
+        <Button Content="MainPanel"></Button>
+    </DockPanel>
+</Window>

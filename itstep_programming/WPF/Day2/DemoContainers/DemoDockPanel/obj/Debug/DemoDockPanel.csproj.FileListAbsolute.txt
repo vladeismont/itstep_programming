@@ -1,0 +1,12 @@
+D:\KIN\DemoContainers\DemoDockPanel\bin\Debug\DemoDockPanel.exe.config
+D:\KIN\DemoContainers\DemoDockPanel\bin\Debug\DemoDockPanel.exe
+D:\KIN\DemoContainers\DemoDockPanel\bin\Debug\DemoDockPanel.pdb
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\MainWindow.baml
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\App.g.cs
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\DemoDockPanel_MarkupCompile.cache
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\DemoDockPanel.g.resources
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\DemoDockPanel.Properties.Resources.resources
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\DemoDockPanel.csproj.GenerateResource.Cache
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\DemoDockPanel.exe
+D:\KIN\DemoContainers\DemoDockPanel\obj\Debug\DemoDockPanel.pdb

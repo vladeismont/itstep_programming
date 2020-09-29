@@ -1,0 +1,16 @@
+D:\KIN\DemoControls\DemoControls\bin\Debug\DemoControls.exe.config
+D:\KIN\DemoControls\DemoControls\bin\Debug\DemoControls.exe
+D:\KIN\DemoControls\DemoControls\bin\Debug\DemoControls.pdb
+D:\KIN\DemoControls\DemoControls\obj\Debug\MainWindow.baml
+D:\KIN\DemoControls\DemoControls\obj\Debug\Windows\AboutWindow.baml
+D:\KIN\DemoControls\DemoControls\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoControls\DemoControls\obj\Debug\Windows\AboutWindow.g.cs
+D:\KIN\DemoControls\DemoControls\obj\Debug\App.g.cs
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls_MarkupCompile.cache
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls.g.resources
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls.Properties.Resources.resources
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls.csproj.GenerateResource.Cache
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls.exe
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls.pdb
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls.csprojResolveAssemblyReference.cache
+D:\KIN\DemoControls\DemoControls\obj\Debug\DemoControls.csproj.CoreCompileInputs.cache

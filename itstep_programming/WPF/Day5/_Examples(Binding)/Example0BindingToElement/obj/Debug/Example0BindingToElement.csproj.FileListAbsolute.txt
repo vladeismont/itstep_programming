@@ -1,0 +1,3 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example0BindingToElement\bin\Debug\Exampl2.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example0BindingToElement\obj\Debug\Exampl2.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example0BindingToElement\obj\Debug\Exampl2.pdb

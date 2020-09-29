@@ -1,0 +1,57 @@
+﻿div{
+	border: 4px solid black;
+}
+
+.header
+{
+	text-align: center;
+	background-color: #cdccff;
+	height: 100px;	
+	background: url("images.jpg");
+	background-size: 224px;
+	background-repeat:reapet-y, repeat-x;
+	vertical-align: middle;	
+	line-height: 100px;
+}
+
+.panel{
+	width:100px;
+	border-radius: 1px;
+	border: 1px double pink;
+	margin:30px;
+}
+
+.panel .p_header{
+	background-color:blue;
+	border-top-left-radius: 1px double pink;
+}
+
+
+.center{
+	
+}
+
+.footer
+{
+	background-color: #f3ccff;
+	height: 100px;	
+}
+
+.left_menu{
+	width: 20%;
+	background-color: #ffccdb;
+	float:left;
+}
+
+.right_menu{
+	width: 20%;
+	background-color: #ffccdb;
+	float:right;
+}
+
+.abs
+{	
+	position:absolute;
+	top:40px;
+	left:50px;
+}

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Example3Properties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+
+    <StackPanel>
+        <!--Установка свойств в XAML-->
+        <TextBox x:Name="tbText1" Text="Текст 1" 
+                 Foreground="Red" Background="Beige"  BorderBrush="Aqua" 
+                 BorderThickness="1,2,3,4" Padding="4,8" HorizontalAlignment="Center" VerticalAlignment="Top"
+                 FontFamily="Arial" FontSize="12" FontWeight="Bold" FontStretch="ExtraCondensed"
+                 IsTabStop="False" TabIndex="1"
+                 Height="50" Width="150"
+                 MaxHeight="50" MinHeight="30"
+                 MaxWidth="150" MinWidth="50"
+                 Visibility="Visible"
+                 Focusable="True"
+                 IsEnabled="True"/>
+        
+        <!--Установка свойств в коде-->
+        <TextBox x:Name="tbText2" Text="Текст 2" />
+       
+    </StackPanel>
+</Window>

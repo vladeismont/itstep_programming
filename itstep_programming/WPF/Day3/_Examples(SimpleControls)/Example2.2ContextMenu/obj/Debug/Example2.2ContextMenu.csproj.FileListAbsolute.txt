@@ -1,0 +1,18 @@
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\bin\Debug\Example2.2ContextMenu.exe
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\bin\Debug\Example2.2ContextMenu.pdb
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.csprojResolveAssemblyReference.cache
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\MainWindow.baml
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\MainWindow.g.cs
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\App.g.cs
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu_MarkupCompile.cache
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.g.resources
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2._2ContextMenu.Properties.Resources.resources
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.csproj.GenerateResource.Cache
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.exe
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example2.2ContextMenu\obj\Debug\Example2.2ContextMenu.pdb

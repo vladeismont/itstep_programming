@@ -1,0 +1,15 @@
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\bin\Debug\Demo_StackPanel.exe.config
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\bin\Debug\Demo_StackPanel.exe
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\bin\Debug\Demo_StackPanel.pdb
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel.csprojResolveAssemblyReference.cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\MainWindow.g.cs
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\App.g.cs
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel_MarkupCompile.cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel_MarkupCompile.lref
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\MainWindow.baml
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel.g.resources
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel.Properties.Resources.resources
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel.csproj.GenerateResource.Cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel.csproj.CoreCompileInputs.cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel.exe
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\Demo_StackPanel\obj\Debug\Demo_StackPanel.pdb

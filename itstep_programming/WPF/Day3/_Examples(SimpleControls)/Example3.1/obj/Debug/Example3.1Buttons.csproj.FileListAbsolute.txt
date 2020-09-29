@@ -1,0 +1,16 @@
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\bin\Debug\Example3.1.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\bin\Debug\Example3.1.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1Buttons.csprojResolveAssemblyReference.cache
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\MainWindow.baml
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\MainWindow.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\App.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1_MarkupCompile.cache
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1.g.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3._1.Properties.Resources.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1Buttons.csproj.GenerateResource.Cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example3.1\obj\Debug\Example3.1.pdb

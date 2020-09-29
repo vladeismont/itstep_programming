@@ -1,0 +1,24 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\bin\Debug\Example3ControlTemplate.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\bin\Debug\Example3ControlTemplate.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\bin\Debug\Example3ControlTemplate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\bin\Debug\Example3ControlTemplate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.csprojResolveAssemblyReference.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\MainWindow.baml
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\TemplateResources\GradientButton1.baml
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\TemplateResources\GradientButton2.baml
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\MainWindow.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\App.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate_MarkupCompile.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.g.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.Properties.Resources.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.csproj.GenerateResource.Cache
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\bin\Debug\Example3ControlTemplate.exe.config
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.exe
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.pdb
+G:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example3ControlTemplate\bin\Debug\Example3ControlTemplate.exe.config
+G:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.exe
+G:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example3ControlTemplate\obj\Debug\Example3ControlTemplate.pdb

@@ -1,0 +1,45 @@
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\Example1.2WindowsEvents.csprojResolveAssemblyReference.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\MainWindow.baml
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\MainWindow.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\App.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents_MarkupCompile.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.g.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.Properties.Resources.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowsEvents\obj\Debug\Example1.2WindowsEvents.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\Example1.2WindowsEvents.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowsEvents\obj\Debug\Example1.2WindowsEvents.csproj.GenerateResource.Cache
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe.config
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\Example1.2WindowsEvents.csprojResolveAssemblyReference.cache
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\MainWindow.baml
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\MainWindow.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\App.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents_MarkupCompile.cache
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.g.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.Properties.Resources.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\Example1.2WindowsEvents.csproj.GenerateResource.Cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\bin\Debug\ExampleWindowsEvents.exe.config
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowsEvents\obj\Debug\ExampleWindowsEvents.pdb

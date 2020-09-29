@@ -1,0 +1,15 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\bin\Debug\Exampl2.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Exampl2.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Exampl2.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\bin\Debug\Exampl2.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\bin\Debug\Exampl2.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Exampl2_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Exampl2.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Exampl2.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Example2BindingToElement(OneTime ).csproj.GenerateResource.Cache
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\bin\Debug\Exampl2.exe.config
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Exampl2.exe
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example2BindingToElement(OneTime )\obj\Debug\Exampl2.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="Example1._4Window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Окно не правильной формы" Height="350" Width="525" 
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStyle="None"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown">
+
+<!--
+    // позволяет использовать фон с прозрачностью.
+    // Background="Transparent"
+    // WindowStyle="None"     -->
+    
+    <Border Background="LightBlue" 
+            CornerRadius="20,0,20,20" 
+            BorderThickness="2" 
+            BorderBrush="Black">
+        <StackPanel>
+            <Button Content="X" 
+                    Name="buttonClose" 
+                    HorizontalAlignment="Right" Padding="10,5" Margin="10,5"
+                    Click="buttonClose_Click" />
+        </StackPanel>
+    </Border>
+</Window>

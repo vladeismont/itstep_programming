@@ -1,0 +1,12 @@
+D:\KIN\DemoContainers\DemoWrapPanel\bin\Debug\DemoWrapPanel.exe.config
+D:\KIN\DemoContainers\DemoWrapPanel\bin\Debug\DemoWrapPanel.exe
+D:\KIN\DemoContainers\DemoWrapPanel\bin\Debug\DemoWrapPanel.pdb
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\MainWindow.baml
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\App.g.cs
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\DemoWrapPanel_MarkupCompile.cache
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\DemoWrapPanel.g.resources
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\DemoWrapPanel.Properties.Resources.resources
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\DemoWrapPanel.csproj.GenerateResource.Cache
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\DemoWrapPanel.exe
+D:\KIN\DemoContainers\DemoWrapPanel\obj\Debug\DemoWrapPanel.pdb

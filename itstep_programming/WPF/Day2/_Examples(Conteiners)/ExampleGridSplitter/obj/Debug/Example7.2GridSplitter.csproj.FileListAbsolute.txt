@@ -1,0 +1,84 @@
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csprojResolveAssemblyReference.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\ExampleGridSplitter_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csprojResolveAssemblyReference.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.baml
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\App.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter_MarkupCompile.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.g.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.Properties.Resources.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csproj.GenerateResource.Cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.pdb
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csprojResolveAssemblyReference.cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.baml
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.g.cs
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\App.g.cs
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter_MarkupCompile.cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.g.resources
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.Properties.Resources.resources
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csproj.GenerateResource.Cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.pdb
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csprojResolveAssemblyReference.cache
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.baml
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\MainWindow.g.cs
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\App.g.cs
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter_MarkupCompile.cache
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.g.resources
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.Properties.Resources.resources
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\Example7.2GridSplitter.csproj.GenerateResource.Cache
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\bin\Debug\ExampleGridSplitter.exe.config
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.exe
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleGridSplitter\obj\Debug\ExampleGridSplitter.pdb

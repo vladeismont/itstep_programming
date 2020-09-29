@@ -1,0 +1,12 @@
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\Example7OptionsGrid_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\bin\Debug\Example7OptionsGrid.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\bin\Debug\Example7OptionsGrid.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\bin\Debug\Example7OptionsGrid.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\Example7OptionsGrid.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\Example7OptionsGrid.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\Example7OptionsGrid.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\Example7OptionsGrid.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example7OptionsGrid\obj\Debug\Example7OptionsGrid.pdb

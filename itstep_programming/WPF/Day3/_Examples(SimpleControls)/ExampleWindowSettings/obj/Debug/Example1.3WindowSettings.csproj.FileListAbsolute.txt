@@ -1,0 +1,27 @@
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.exe.config
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\MainWindow.baml
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\MainWindow.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\App.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings_MarkupCompile.cache
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.g.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.Properties.Resources.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\Example1.3WindowSettings.csproj.GenerateResource.Cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.exe.config
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.pdb
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\bin\Debug\ExampleWindowSettings.exe.config
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.exe
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindowSettings\obj\Debug\ExampleWindowSettings.pdb

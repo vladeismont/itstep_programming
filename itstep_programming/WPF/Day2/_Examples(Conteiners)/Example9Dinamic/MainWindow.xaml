@@ -1,0 +1,28 @@
+﻿<Window x:Class="Example9Dinamic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Button Name="Btn_next" Margin="5,5,5,0" Padding="3" MinWidth="80">&gt; Next</Button>
+            <Button Name="Btn_prev" Margin="5" Padding="3" MinWidth="80">Prev &lt;</Button>
+            <CheckBox Margin="5,0,5,0" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked">Растянуть</CheckBox>
+        </StackPanel>
+        <TextBox Grid.Column="1" Margin="0,5,5,5" BorderBrush="LightBlue" BorderThickness="2"
+                 Padding="5" TextWrapping="WrapWithOverflow" TextAlignment="Justify">
+            Windows Presentation Foundation (WPF) — это набор инструментов для построения пользовательских интерфейсов, 
+            появившийся в версии .NET 3.0. Основная цель WPF состоит в интеграции и унификации множества ранее 
+            разрозненных настольных технологий (двух- и трехмерная графика, разработка окон и элементов управления и т.п.) 
+            в единую унифицированную программную модель.
+        </TextBox>
+        <Button Grid.Row="1" Padding="3" Margin="5,0,5,5">Cancel</Button>
+    </Grid>
+</Window>

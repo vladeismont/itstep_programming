@@ -1,0 +1,53 @@
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\bin\Debug\ExampleControlTemplate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\bin\Debug\ExampleControlTemplate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\MainWindow.baml
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\MainWindow.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\App.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\ExampleControlTemplate_MarkupCompile.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\ExampleControlTemplate.g.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\ExampleControlTemplate.Properties.Resources.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\Example1ControlTemplate.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\ExampleControlTemplate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Графика\_Examples(Templates)\TempletesApp\ExampleControlTemplate\obj\Debug\ExampleControlTemplate.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Шаблоны.Графика\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Шаблоны.Графика\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Шаблоны.Графика\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Шаблоны.Графика\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Шаблоны.Графика\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day4 Шаблоны.Графика\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\Example1ControlTemplate.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\Example1ControlTemplate.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.pdb
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.exe
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.pdb
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.pdb
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\Example1ControlTemplate.csprojResolveAssemblyReference.cache
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\MainWindow.baml
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\MainWindow.g.cs
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\App.g.cs
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate_MarkupCompile.cache
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.g.resources
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.Properties.Resources.resources
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day9 Шаблоны\_Examples(Templates)\Example1ControlTemplate\obj\Debug\Example1ControlTemplate.csproj.GenerateResource.Cache
+G:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+G:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.exe
+G:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.pdb
+E:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example1ControlTemplate\bin\Debug\ExampleControlTemplate.exe.config
+E:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.exe
+E:\_П31016\WPF\Day9 Templates\_Examples(Templates)\Example1ControlTemplate\obj\Debug\ExampleControlTemplate.pdb

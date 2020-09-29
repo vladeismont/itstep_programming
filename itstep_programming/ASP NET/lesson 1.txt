@@ -1,0 +1,31 @@
+vs 2017 web development tools (back-end)
+vs code (front-end)
+source tree (git)
+node js(front-end)
+
+абстрактные этапы жизненного цыкла
+1) запрос страницы
+2) инициализация страницы
+3) инициализация элементов управления
+4) загрузка страницы
+5) postback event hanlding
+6) Rendering (отображение страницы)
+7) unload
+
+1) preinit
+2) init
+3) init comlete
+4) preload
+5) load
+6) load complete
+7) prerender
+8) prerender complete
+9) save state complete
+10) unload
+
+механизмы состояния:
+coocky 
+sessions 
+ViewState 
+url 
+application 

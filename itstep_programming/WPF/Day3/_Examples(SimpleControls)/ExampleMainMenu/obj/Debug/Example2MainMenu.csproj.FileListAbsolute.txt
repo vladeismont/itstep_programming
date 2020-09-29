@@ -1,0 +1,18 @@
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleMainMenu\bin\Debug\ExampleMainMenu.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleMainMenu\obj\Debug\ExampleMainMenu.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleMainMenu\obj\Debug\ExampleMainMenu.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\bin\Debug\ExampleMainMenu.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\ExampleMainMenu.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\ExampleMainMenu.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\bin\Debug\ExampleMainMenu.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\bin\Debug\ExampleMainMenu.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\ExampleMainMenu_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\ExampleMainMenu.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\ExampleMainMenu.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleMainMenu\obj\Debug\Example2MainMenu.csproj.GenerateResource.Cache
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleMainMenu\bin\Debug\ExampleMainMenu.exe.config
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleMainMenu\obj\Debug\ExampleMainMenu.exe
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleMainMenu\obj\Debug\ExampleMainMenu.pdb

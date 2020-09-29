@@ -1,0 +1,28 @@
+﻿<Window x:Class="Example7MultiBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+         xmlns:converter="clr-namespace:Example7MultiBinding" >
+
+    <Window.Resources>
+        <converter:AddConverter x:Key="XAMLResourceAddConverter" />
+    </Window.Resources>
+    
+    <StackPanel>
+        <Label Content="Число А"></Label>
+        <TextBox Name="TextBox1" Text="10" Margin="10,5"></TextBox>
+        <Label Content="Число А"></Label>
+        <TextBox Name="TextBox2" Text="20" Margin="10,5"></TextBox>
+
+        <TextBox Name="textBox3" Margin="10,5">
+            <TextBox.Text>
+                <MultiBinding Converter="{StaticResource XAMLResourceAddConverter}" Mode="OneWay">
+                    <Binding ElementName="TextBox1" Path="Text"/>
+                    <Binding ElementName="TextBox2" Path="Text"/>
+                </MultiBinding>
+            </TextBox.Text>
+        </TextBox>
+
+
+    </StackPanel>
+</Window>

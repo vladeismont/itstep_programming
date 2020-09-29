@@ -1,0 +1,25 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\bin\Debug\NoMVVM.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\bin\Debug\NoMVVM.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\bin\Debug\NoMVVM.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\Example1NoMVVM.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\Example1NoMVVM.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\bin\Debug\NoMVVM.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.pdb
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\bin\Debug\NoMVVM.exe.config
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.exe
+E:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.pdb
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\bin\Debug\NoMVVM.exe.config
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.exe
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.pdb
+G:\_П31016\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\bin\Debug\NoMVVM.exe.config
+G:\_П31016\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.exe
+G:\_П31016\WPF\Day11 Работа с графикой\_Example(MVVM)\ExamplesMVVM\Example1NoMVVM\obj\Debug\NoMVVM.pdb

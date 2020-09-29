@@ -1,0 +1,45 @@
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindow\obj\Debug\ExampleWindow.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExampleWindow\obj\Debug\ExampleWindow.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\ExampleWindow.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\bin\Debug\ExampleWindow.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\bin\Debug\ExampleWindow.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\Example1.1Window.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\ExampleWindow_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\ExampleWindow.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\ExampleWindow.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\Example1.1Window.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\ExampleWindow.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\ExampleWindow.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExampleWindow\obj\Debug\ExampleWindow.pdb
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.exe
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\bin\Debug\ExampleWindow.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\bin\Debug\ExampleWindow.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\Example1.1Window.csprojResolveAssemblyReference.cache
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\MainWindow.baml
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\MainWindow.g.cs
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\App.g.cs
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow_MarkupCompile.cache
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.g.resources
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.Properties.Resources.resources
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\Example1.1Window.csproj.GenerateResource.Cache
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.exe
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExampleWindow\obj\Debug\ExampleWindow.pdb

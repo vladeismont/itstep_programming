@@ -1,0 +1,4 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example4DockPanel2\bin\Debug\Example4DockPanel2.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel2\bin\Debug\Example4DockPanel2.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel2\bin\Debug\Example4DockPanel2.exe.config
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example4DockPanel2\bin\Debug\Example4DockPanel2.exe.config

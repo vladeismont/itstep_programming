@@ -1,0 +1,15 @@
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\bin\Debug\test2.exe.config
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\bin\Debug\test2.exe
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\bin\Debug\test2.pdb
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\MainWindow.g.cs
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\App.g.cs
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2_MarkupCompile.cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2_MarkupCompile.lref
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\MainWindow.baml
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2.g.resources
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2.exe
+C:\Users\st.ITSTEP.000\source\repos\Demo_Container\test2\obj\Debug\test2.pdb

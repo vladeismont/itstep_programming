@@ -1,0 +1,45 @@
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\bin\Debug\Example9Dinamic.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\bin\Debug\Example9Dinamic.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\bin\Debug\Example9Dinamic.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\Example9Dinamic_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\Example9Dinamic.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\Example9Dinamic.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\Example9Dinamic.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\Example9Dinamic.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example9Dinamic\obj\Debug\Example9Dinamic.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.csproj.GenerateResource.Cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.exe.config
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.exe
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.pdb
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.exe.config
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.exe
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.pdb
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\bin\Debug\Example9Dinamic.exe.config
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.exe
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example9Dinamic\obj\Debug\Example9Dinamic.pdb

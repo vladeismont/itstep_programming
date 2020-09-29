@@ -1,0 +1,20 @@
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\bin\Debug\Example7.3UniformGrid.exe
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\bin\Debug\Example7.3UniformGrid.pdb
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.csprojResolveAssemblyReference.cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\MainWindow.baml
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\MainWindow.g.cs
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\App.g.cs
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid_MarkupCompile.cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.g.resources
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7._3UniformGrid.Properties.Resources.resources
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.csproj.GenerateResource.Cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.exe
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.pdb
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.exe
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.pdb
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.exe
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.pdb
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.exe
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example7.3UniformGrid\obj\Debug\Example7.3UniformGrid.pdb

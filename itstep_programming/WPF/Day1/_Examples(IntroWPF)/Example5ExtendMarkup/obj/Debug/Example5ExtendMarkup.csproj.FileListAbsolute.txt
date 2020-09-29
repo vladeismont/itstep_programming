@@ -1,0 +1,50 @@
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe.config
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.pdb
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.g.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.csprojResolveAssemblyReference.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup_MarkupCompile.lref
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\bin\Debug\Example5ExtendMarkup.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.csprojResolveAssemblyReference.cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\MainWindow.g.cs
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\App.g.cs
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup_MarkupCompile.cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup_MarkupCompile.lref
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\MainWindow.baml
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.g.resources
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.Properties.Resources.resources
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example5ExtendMarkup\obj\Debug\Example5ExtendMarkup.csproj.GenerateResource.Cache

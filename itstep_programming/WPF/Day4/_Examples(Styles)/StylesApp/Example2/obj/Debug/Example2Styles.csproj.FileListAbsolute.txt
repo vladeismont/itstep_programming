@@ -1,0 +1,9 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example2\bin\Debug\Example2.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example2\obj\Debug\Example2.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example2\obj\Debug\Example2.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example2\bin\Debug\Example2.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example2\obj\Debug\Example2.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example2\obj\Debug\Example2.pdb
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example2\bin\Debug\Example2.exe.config
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example2\obj\Debug\Example2.exe
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example2\obj\Debug\Example2.pdb

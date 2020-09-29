@@ -1,0 +1,24 @@
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\bin\Debug\Example8Canvas.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\bin\Debug\Example8Canvas.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\bin\Debug\Example8Canvas.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\Example8Canvas_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\Example8Canvas.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\Example8Canvas.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\Example8Canvas.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\Example8Canvas.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example8Canvas\obj\Debug\Example8Canvas.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example8Canvas\bin\Debug\Example8Canvas.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\bin\Debug\Example8Canvas.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\bin\Debug\Example8Canvas.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.pdb
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\bin\Debug\Example8Canvas.exe.config
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.exe
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example8Canvas\obj\Debug\Example8Canvas.pdb

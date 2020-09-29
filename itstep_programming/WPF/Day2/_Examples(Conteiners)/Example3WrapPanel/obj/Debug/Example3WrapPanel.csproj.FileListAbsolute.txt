@@ -1,0 +1,33 @@
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\bin\Debug\Example3WrapPanel.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\bin\Debug\Example3WrapPanel.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\bin\Debug\Example3WrapPanel.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\Example3WrapPanel_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\Example3WrapPanel.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\Example3WrapPanel.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\Example3WrapPanel.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\Example3WrapPanel.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\Example3WrapPanel\obj\Debug\Example3WrapPanel.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\bin\Debug\Example3WrapPanel.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\bin\Debug\Example3WrapPanel.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\bin\Debug\Example3WrapPanel.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\bin\Debug\Example3WrapPanel.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\bin\Debug\Example3WrapPanel.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.pdb
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\bin\Debug\Example3WrapPanel.exe.config
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.exe
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\Example3WrapPanel\obj\Debug\Example3WrapPanel.pdb

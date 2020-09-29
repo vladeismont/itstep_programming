@@ -1,0 +1,13 @@
+D:\KIN\DemoContainers\DemoStackPanel\bin\Debug\DemoStackPanel.exe.config
+D:\KIN\DemoContainers\DemoStackPanel\bin\Debug\DemoStackPanel.exe
+D:\KIN\DemoContainers\DemoStackPanel\bin\Debug\DemoStackPanel.pdb
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\DemoStackPanel.csprojResolveAssemblyReference.cache
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\MainWindow.baml
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\MainWindow.g.cs
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\App.g.cs
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\DemoStackPanel_MarkupCompile.cache
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\DemoStackPanel.g.resources
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\DemoStackPanel.Properties.Resources.resources
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\DemoStackPanel.csproj.GenerateResource.Cache
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\DemoStackPanel.exe
+D:\KIN\DemoContainers\DemoStackPanel\obj\Debug\DemoStackPanel.pdb

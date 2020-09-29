@@ -1,0 +1,33 @@
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\bin\Debug\Example3Properties.exe.config
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\bin\Debug\Example3Properties.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\bin\Debug\Example3Properties.pdb
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\Example3Properties_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\Example3Properties.g.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\Example3Properties.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\Example3Properties.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\Example3Properties.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Example3Properties\obj\Debug\Example3Properties.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\bin\Debug\Example3Properties.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\bin\Debug\Example3Properties.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\bin\Debug\Example3Properties.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\bin\Debug\Example3Properties.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example3Properties\bin\Debug\Example3Properties.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example3Properties\bin\Debug\Example3Properties.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example3Properties\obj\Debug\Example3Properties.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="Example1StackPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" MaxWidth="190" MaxHeight="285" MinHeight="285" MinWidth="190">
+    <StackPanel Orientation="Vertical" >
+        <Label>Контактная информация</Label>
+        <Label>Логин:</Label>
+        <TextBox MaxWidth="190" MinWidth="150" HorizontalAlignment="Left"></TextBox>
+        <Label>Пароль:</Label>
+        <TextBox MaxWidth="190" MinWidth="150" HorizontalAlignment="Left"></TextBox>
+        <Button Margin="20" MaxWidth="120" HorizontalAlignment="Left" MinWidth="100" Content="Отправить"></Button>
+    </StackPanel>
+</Window>

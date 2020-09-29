@@ -1,0 +1,24 @@
+﻿<Window x:Class="Demo_StackPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo_StackPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="4*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Content="Menu" Grid.ColumnSpan="2"/>
+        <Button Content="Main Panel" Grid.Column="1" Grid.Row="1"/>
+        <Button Content="ToolBox Panel" Grid.Column="0" Grid.Row="1"/>
+        <Button Content="Status Panel" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2"/>        
+    </Grid>
+</Window>

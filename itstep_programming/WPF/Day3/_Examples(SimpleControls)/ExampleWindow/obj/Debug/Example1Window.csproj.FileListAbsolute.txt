@@ -1,0 +1,2 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\WPFClassicControls\ExampleWindow\bin\Debug\ExampleWindow.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\WPFClassicControls\ExampleWindow\obj\Debug\ExampleWindow.exe

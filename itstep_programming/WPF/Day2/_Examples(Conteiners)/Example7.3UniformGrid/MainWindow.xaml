@@ -1,0 +1,13 @@
+﻿<Window x:Class="Example7._3UniformGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <!--Демонстрация элемента UniformGrid-->
+    <UniformGrid Rows="3" Columns="3" >
+        <Button Content="Button 1" />
+        <Button Content="Button 2" />
+        <Button Content="Button 3" />
+        <Button Content="Button 4" />
+        <Button Content="Button 5" />
+    </UniformGrid>
+</Window>

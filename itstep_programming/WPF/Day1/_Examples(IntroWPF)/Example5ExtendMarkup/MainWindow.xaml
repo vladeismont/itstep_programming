@@ -1,0 +1,35 @@
+﻿<!-- ИСПОЛЬЗОВАНИЕ РАСШИРЕНИЯ РАЗМЕТКИ -->
+<Window x:Class="Example5ExtendMarkup.MainWindow" x:ClassModifier="Private"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        
+        xmlns:my="clr-namespace:Example5ExtendMarkup"
+        
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <!-- Расширение разметки Static позволяет получать
+             значения статических членов класса  -->
+        <Label Content="{x:Static system:Environment.OSVersion}" />
+        <Label Content="{x:Static system:Environment.ProcessorCount}" />
+
+        <!-- Расширение разметки Type - это XAML версия оператора typeof -->
+        <Label Content="{x:Type Button}" />
+        <Label Content="{x:Type system:Boolean}" />
+        
+        <ListBox>
+            <ListBox.ItemsSource>
+                <x:Array Type="system:String">
+                    <system:String>Первый элемент</system:String>
+                    <system:String>Второй элемент</system:String>
+                    <system:String>Третий элемент</system:String>
+                </x:Array>
+            </ListBox.ItemsSource>
+        </ListBox>
+
+
+        <Button x:Name="btnDemo" Content="{x:Static my:TextInfo.Test}" Margin="150,120,150,120" x:FieldModifier="private"></Button>
+
+    </StackPanel>
+</Window>

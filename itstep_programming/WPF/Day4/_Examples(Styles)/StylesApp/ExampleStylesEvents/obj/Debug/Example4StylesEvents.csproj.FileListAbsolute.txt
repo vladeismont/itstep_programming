@@ -1,0 +1,15 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\bin\Debug\ExampleStylesEvents.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\bin\Debug\ExampleStylesEvents.exe.config
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\bin\Debug\ExampleStylesEvents.exe.config
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\bin\Debug\ExampleStylesEvents.exe
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\bin\Debug\ExampleStylesEvents.pdb
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\Example4StylesEvents.csprojResolveAssemblyReference.cache
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\MainWindow.baml
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\MainWindow.g.cs
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\App.g.cs
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\ExampleStylesEvents_MarkupCompile.cache
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\ExampleStylesEvents.g.resources
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\ExampleStylesEvents.Properties.Resources.resources
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\Example4StylesEvents.csproj.GenerateResource.Cache
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\ExampleStylesEvents.exe
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\ExampleStylesEvents\obj\Debug\ExampleStylesEvents.pdb

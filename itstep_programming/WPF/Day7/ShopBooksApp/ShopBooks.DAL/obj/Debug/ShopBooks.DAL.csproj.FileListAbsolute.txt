@@ -1,0 +1,12 @@
+D:\KIN\ShopBooksApp\ShopBooks.DAL\bin\Debug\ShopBooks.DAL.dll.config
+D:\KIN\ShopBooksApp\ShopBooks.DAL\bin\Debug\ShopBooks.DAL.dll
+D:\KIN\ShopBooksApp\ShopBooks.DAL\bin\Debug\ShopBooks.DAL.pdb
+D:\KIN\ShopBooksApp\ShopBooks.DAL\bin\Debug\EntityFramework.dll
+D:\KIN\ShopBooksApp\ShopBooks.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\KIN\ShopBooksApp\ShopBooks.DAL\bin\Debug\EntityFramework.xml
+D:\KIN\ShopBooksApp\ShopBooks.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\KIN\ShopBooksApp\ShopBooks.DAL\obj\Debug\ShopBooks.DAL.csproj.CoreCompileInputs.cache
+D:\KIN\ShopBooksApp\ShopBooks.DAL\obj\Debug\ShopBooks.DAL.csproj.CopyComplete
+D:\KIN\ShopBooksApp\ShopBooks.DAL\obj\Debug\ShopBooks.DAL.dll
+D:\KIN\ShopBooksApp\ShopBooks.DAL\obj\Debug\ShopBooks.DAL.pdb
+D:\KIN\ShopBooksApp\ShopBooks.DAL\obj\Debug\ShopBooks.DAL.csprojResolveAssemblyReference.cache

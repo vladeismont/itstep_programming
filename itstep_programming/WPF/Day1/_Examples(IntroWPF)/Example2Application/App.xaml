@@ -1,0 +1,40 @@
+﻿<Application x:Class="Exampl2Application.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            
+             ShutdownMode="OnLastWindowClose"
+          
+             StartupUri="Windows/FirstWindow.xaml" 
+             
+             Startup="Application_Startup" 
+             
+             Exit="Application_Exit" 
+             
+             Activated="Application_Activated" 
+               
+             Deactivated="Application_Deactivated" 
+             
+             DispatcherUnhandledException="Application_DispatcherUnhandledException">
+
+    <!--
+ установка режима останова приложения 
+ ShutdownMode="OnLastWindowClose"
+ 
+ OnLastWindowClose
+       Поведение по умолчанию — приложение выполняется до тех пор, 
+       пока существует хотя бы одно открытое окно. После закрытия 
+       главного окна свойство Application.MainWindow по-прежнему 
+       ссылается на объект, представляющий закрытое окно. 
+OnMainWindowClose
+       Это традиционный подход — приложение остается активным 
+       только пока открыто главное окно
+OnExplicitShutdown
+       Приложение не завершается (даже если все окна закрыты), пока 
+       не будет вызван метод Application.Shutdown(). 
+       Такой подход может быть оправдан, если приложение является интерфейсом 
+       для долго выполняющейся задачи.-->
+    
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Example4XAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <!-- Использование различных синтаксисов для 
+             инициализации свойства Content   -->
+        <Button>КНОПКА №1</Button>
+        
+        <Button Content="КНОПКА №2" Height="50"></Button>
+        
+        <!-- Синтаксис "свойство-элемент" -->
+        <Button>
+            <!-- инициализация свойства Content -->
+            <Button.Content>
+                КНОПКА 3
+            </Button.Content>
+            <Button.Height>
+                50
+            </Button.Height>
+            <!-- инициализация свойства Background -->
+            <Button.Background>
+                <!-- использование класс  LinearGradientBrush-->
+                <LinearGradientBrush>
+                    <LinearGradientBrush.GradientStops>
+                      <GradientStop Color="Bisque" Offset="0"/> 
+                      <GradientStop Color="Red"    Offset="1"/>
+                    </LinearGradientBrush.GradientStops>
+                </LinearGradientBrush> 
+            </Button.Background>
+        </Button>
+       
+        <!-- свойства кнопки настраиваются в коде -->
+        <Button x:Name="button1"></Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,31 @@
+﻿<Window x:Class="Example6MultiBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="250" Width="525">
+    <ScrollViewer VerticalScrollBarVisibility="Auto"> 
+        <StackPanel >
+        <Slider  Name="sliderFontSize" Margin="10" Minimum="15" Maximum="72" 
+                 TickFrequency="1" TickPlacement="TopLeft"></Slider>
+       
+        <TextBox Name="tbText" Text="Пример текста" 
+                 FontSize="{Binding ElementName=sliderFontSize,Path=Value,Mode=TwoWay}" ></TextBox>
+     
+       <!-- Использование MultiBinding --> 
+        <TextBlock Name="tbMulti" Margin="50,10,50,10" 
+                   FontSize="{Binding ElementName=sliderFontSize, Path=Value}" 
+                   Text="{Binding ElementName=tbText, Path=Text}" 
+                   Foreground="{Binding ElementName=btnButton, Path=Background}"
+                   FontWeight="Bold">
+        </TextBlock>
+
+        <!--UpdateSourceTrigger=PropertyChanged    -->
+        <!--Немедленное обновление источника привязки каждый раз при изменении свойства цели привязки.-->
+        <TextBox Name="tbComplex" Margin="50,10,50,10" 
+                   Text="{Binding ElementName=sliderFontSize, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                   FontWeight="Bold" Width="120" HorizontalAlignment="Left">
+        </TextBox>
+
+        <Button x:Name="btnButton" Content="Цвет" Background="Red" Margin="50,10,50,10" ></Button>
+    </StackPanel>
+    </ScrollViewer>
+</Window>

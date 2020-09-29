@@ -1,0 +1,39 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\bin\Debug\Example1.4Window.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\bin\Debug\Example1.4Window.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\bin\Debug\Example1.4Window.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1.4Window_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1.4Window.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1._4Window.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1.4Window.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1.4Window.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1.4Window.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\bin\Debug\Example1.4Window.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1.4Window.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\Example1.4Window\obj\Debug\Example1.4Window.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\Example1.4Window\bin\Debug\Example1.4Window.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\Example1.4Window\obj\Debug\Example1.4Window.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\Example1.4Window\obj\Debug\Example1.4Window.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\bin\Debug\Example1.4Window.exe.config
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\bin\Debug\Example1.4Window.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\bin\Debug\Example1.4Window.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\MainWindow.baml
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\MainWindow.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\App.g.cs
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window_MarkupCompile.cache
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.g.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1._4Window.Properties.Resources.resources
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.csproj.GenerateResource.Cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\bin\Debug\Example1.4Window.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\bin\Debug\Example1.4Window.exe.config
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.pdb
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\bin\Debug\Example1.4Window.exe.config
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.exe
+E:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\Example1.4Window\obj\Debug\Example1.4Window.pdb

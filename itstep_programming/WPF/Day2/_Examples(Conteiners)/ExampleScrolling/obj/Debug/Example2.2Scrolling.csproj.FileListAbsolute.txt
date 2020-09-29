@@ -1,0 +1,49 @@
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\bin\Debug\ExampleScrolling.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\bin\Debug\ExampleScrolling.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\bin\Debug\ExampleScrolling.pdb
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\MainWindow.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\MainWindow.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\App.g.cs
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\ExampleScrolling_MarkupCompile.cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\ExampleScrolling.g.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\ExampleScrolling.Properties.Resources.resources
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\Example2.2Scrolling.csproj.GenerateResource.Cache
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\ExampleScrolling.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\ExampleScrolling.pdb
+E:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\bin\Debug\ExampleScrolling.exe.config
+E:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\ExampleScrolling.exe
+E:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\Compose\ExampleScrolling\obj\Debug\ExampleScrolling.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\Example2.2Scrolling.csproj.GenerateResource.Cache
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.exe.config
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.exe
+J:\Itstep\СТ\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.pdb
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.exe.config
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.exe
+G:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.pdb
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.exe.config
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.exe
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.pdb
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.exe
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\bin\Debug\ExampleScrolling.pdb
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\Example2.2Scrolling.csprojResolveAssemblyReference.cache
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\MainWindow.baml
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\MainWindow.g.cs
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\App.g.cs
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling_MarkupCompile.cache
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.g.resources
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\ExampleScrolling.Properties.Resources.resources
+E:\_П31016\WPF\Day2 Контейнеры\_Examples(Conteiners)\ExampleScrolling\obj\Debug\Example2.2Scrolling.csproj.GenerateResource.Cache

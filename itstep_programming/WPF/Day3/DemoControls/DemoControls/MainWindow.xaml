@@ -1,0 +1,108 @@
+﻿<Window x:Class="DemoControls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Icon="Img/app.ico"
+        WindowStartupLocation="CenterScreen"
+        Height="350" Width="525">
+
+    <DockPanel LastChildFill="True">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Open" Click="btnOpen_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Img/Open.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Save" Click="btnSave_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Img/Save.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Separator/>
+                <MenuItem Header="Close" Click="btnClose_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Img/Close.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Header="Copy" Command="Copy">
+                    <MenuItem.Icon>
+                        <Image Source="Img/Copy.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Cut" Command="Cut">
+                    <MenuItem.Icon>
+                        <Image Source="Img/Cut.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Paste" Command="Paste">
+                    <MenuItem.Icon>
+                        <Image Source="Img/Paste.png"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Options"></MenuItem>
+            <MenuItem Header="Help">
+                <MenuItem Header="About" Click="btnAbout_Click"></MenuItem>
+            </MenuItem>
+           
+        </Menu>
+        <ToolBarTray DockPanel.Dock="Top">
+            <ToolBar>
+                <Button Click="btnOpen_Click">
+                    <Image Source="Img/Open.png"></Image>
+                </Button>
+                <Button>
+                    <Image Source="Img/Save.png"></Image>
+                </Button>
+            </ToolBar>
+            <ToolBar>
+                <Button Command="Cut" CommandTarget="{Binding ElementName=tbMain}">
+                    <Image Source="Img/Cut.png" ></Image>
+                </Button>
+                <Button Command="Copy" CommandTarget="{Binding ElementName=tbMain}">
+                    <Image Source="Img/Copy.png"></Image>
+                </Button>
+                <Button Command="Paste" CommandTarget="{Binding ElementName=tbMain}">
+                    <Image Source="Img/Paste.png"></Image>
+                </Button>
+            </ToolBar>
+            <ToolBar>
+                <CheckBox Content="Bold" FontWeight="Bold"></CheckBox>
+                <CheckBox Content="Italic" FontStyle="Italic"></CheckBox>
+                <CheckBox>
+                    <TextBlock Text="Underline" TextDecorations="Underline"/>
+                </CheckBox>
+            </ToolBar>
+        </ToolBarTray>
+        <StatusBar DockPanel.Dock="Bottom" HorizontalAlignment="Stretch" HorizontalContentAlignment="Stretch">
+            <DockPanel HorizontalAlignment="Stretch">
+                <Label DockPanel.Dock="Left" Content="Ready" Grid.Column="0"></Label>
+                <ProgressBar Margin="5" DockPanel.Dock="Right" Grid.Column="1"  IsIndeterminate="True"></ProgressBar>
+            </DockPanel>
+        </StatusBar>
+        <TextBox x:Name="tbMain" Margin="5">
+            <TextBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Copy" Command="Copy">
+                        <MenuItem.Icon>
+                            <Image Source="Img/Copy.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Cut" Command="Cut">
+                        <MenuItem.Icon>
+                            <Image Source="Img/Cut.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="Paste" Command="Paste">
+                        <MenuItem.Icon>
+                            <Image Source="Img/Paste.png"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                </ContextMenu>
+            </TextBox.ContextMenu>
+        </TextBox>
+    </DockPanel>
+</Window>

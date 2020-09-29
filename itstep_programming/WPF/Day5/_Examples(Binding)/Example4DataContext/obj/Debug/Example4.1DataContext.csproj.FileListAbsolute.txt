@@ -1,0 +1,3 @@
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example4DataContext\bin\Debug\Example4.exe.config
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example4DataContext\obj\Debug\Example4.exe
+j:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example4DataContext\obj\Debug\Example4.pdb

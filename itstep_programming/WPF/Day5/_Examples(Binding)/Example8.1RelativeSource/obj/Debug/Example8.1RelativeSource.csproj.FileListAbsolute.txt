@@ -1,0 +1,13 @@
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\bin\Debug\Example8.1RelativeSource.exe.config
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\bin\Debug\Example8.1RelativeSource.exe
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\bin\Debug\Example8.1RelativeSource.pdb
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\Example8.1RelativeSource.csprojResolveAssemblyReference.cache
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\MainWindow.baml
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\MainWindow.g.cs
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\App.g.cs
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\Example8.1RelativeSource_MarkupCompile.cache
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\Example8.1RelativeSource.g.resources
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\Example8._1RelativeSource.Properties.Resources.resources
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\Example8.1RelativeSource.csproj.GenerateResource.Cache
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\Example8.1RelativeSource.exe
+J:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day6 Binding\_Examples(Binding)\Example8.1RelativeSource\obj\Debug\Example8.1RelativeSource.pdb

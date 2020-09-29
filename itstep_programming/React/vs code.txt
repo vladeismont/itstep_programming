@@ -1,0 +1,7 @@
+terminal- new terminal
+перва€ команда: npm i
+npm run start
+
+npm i create-react-app -g
+
+create-react-app name ќн распакует новый проект

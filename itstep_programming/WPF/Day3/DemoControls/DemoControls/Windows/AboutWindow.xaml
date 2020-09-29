@@ -1,0 +1,50 @@
+﻿<Window x:Class="DemoControls.Windows.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AboutWindows" Height="150" Width="300"
+        WindowStartupLocation="CenterOwner"
+        WindowStyle="None" 
+        Background="Transparent"
+        BorderBrush="Transparent" 
+        AllowsTransparency="True"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    
+    <Border Background="LightBlue" BorderBrush="Black"
+            BorderThickness="3" CornerRadius="20,0,20,0">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+               
+            </Grid.RowDefinitions>
+            <Button Grid.Column="1" Click="btnClose_Click"
+                    Margin="3" BorderBrush="Transparent" Background="LightBlue">
+                <Image Source="/Img/Close.png"></Image>
+            </Button>
+            <Label Content="Super Puper Application"></Label>
+            <ComboBox Grid.Row="1" Margin="5">
+                <ComboBox.Items>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Img/Cut.png"></Image>
+                        <Label Content="Operation Cut"></Label>
+                        <Image Source="/Img/Cut.png"></Image>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Img/Copy.png"></Image>
+                        <Label Content="Operation Copy"></Label>
+                        <Image Source="/Img/Copy.png"></Image>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Img/Paste.png"></Image>
+                        <Label Content="Operation Paste"></Label>
+                        <Image Source="/Img/Copy.png"></Image>
+                    </StackPanel>
+                </ComboBox.Items>
+            </ComboBox>
+        </Grid>
+    </Border>
+</Window>

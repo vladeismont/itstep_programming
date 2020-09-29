@@ -1,0 +1,76 @@
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\bin\Debug\Exampl2Application.exe.config
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\SecondWindow.baml
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\SecondWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Exampl2Application_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Exampl2Application.g.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Exampl2Application.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Example2Application.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\bin\Debug\Exampl2Application.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\bin\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Exampl2Application.exe
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Example2Application.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\App.baml
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\bin\Debug\Exampl2Application.exe.config
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Exampl2Application.exe
+Q:\_Работа (нов)\_ITstep\_Учебный материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPFI)\IntroWPF\Exampl2Application\obj\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\bin\Debug\Exampl2Application.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Exampl2Application.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\bin\Debug\Exampl2Application.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\bin\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Example2Application.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\SecondWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\App.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\SecondWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Exampl2Application_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Exampl2Application.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Exampl2Application.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Example2Application.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\FirstWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\FirstWindow.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\bin\Debug\Exampl2Application.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Exampl2Application.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Exampl2Application\obj\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day1 Введение. Компоновка\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\FirstWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\SecondWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\App.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\FirstWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\SecondWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Example2Application.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Example2Application.csprojResolveAssemblyReference.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.exe.config
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.exe
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\bin\Debug\Exampl2Application.pdb
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Example2Application.csprojResolveAssemblyReference.cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Windows\FirstWindow.baml
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Windows\SecondWindow.baml
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\App.baml
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Windows\FirstWindow.g.cs
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Windows\SecondWindow.g.cs
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\App.g.cs
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application_MarkupCompile.cache
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.g.resources
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Exampl2Application.Properties.Resources.resources
+H:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day1 Введение в WPF\_Examples(IntroWPF)\Example2Application\obj\Debug\Example2Application.csproj.GenerateResource.Cache

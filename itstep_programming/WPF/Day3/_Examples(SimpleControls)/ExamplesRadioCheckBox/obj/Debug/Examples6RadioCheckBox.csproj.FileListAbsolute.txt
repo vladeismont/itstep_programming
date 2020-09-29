@@ -1,0 +1,25 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\MainWindow.baml
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\MainWindow.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\App.g.cs
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox_MarkupCompile.cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.g.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.Properties.Resources.resources
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\Examples6RadioCheckBox.csproj.GenerateResource.Cache
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day2 Элементы управления\_Examples(Controls)\WPFClassicControls\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day3 Элементы управления ч.1\_Examples(Controls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.pdb
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.exe.config
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.exe
+g:\_П31816\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.pdb
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExamplesRadioCheckBox\bin\Debug\ExamplesRadioCheckBox.exe.config
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.exe
+G:\_П31016\WPF\Day3 Элементы управления ч.1\_Examples(SimpleControls)\ExamplesRadioCheckBox\obj\Debug\ExamplesRadioCheckBox.pdb

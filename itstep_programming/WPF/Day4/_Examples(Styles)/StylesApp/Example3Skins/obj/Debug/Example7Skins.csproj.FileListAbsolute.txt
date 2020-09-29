@@ -1,0 +1,24 @@
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\bin\Debug\Example3Skins.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\bin\Debug\Example3Skins.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\bin\Debug\Example3Skins.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\bin\Debug\Example3Skins.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example7Skins.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\MainWindow.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Skin1.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Skin2.baml
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\MainWindow.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\App.g.cs
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins_MarkupCompile.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.g.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.Properties.Resources.resources
+G:\_Работа (нов)\_ITstep\_Уч. материал\4.WPF_ПС\Day3 DataBinding. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example7Skins.csproj.GenerateResource.Cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example3Skins\bin\Debug\Example3Skins.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.pdb
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example3Skins\bin\Debug\Example3Skins.exe.config
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.exe
+e:\!kin\Рабочий\_Работа (нов)\_ITstep\_Уч. материал\4. WPF\Day5 Ресурсы. Стили\_Examples(Styles)\StylesApp\Example3Skins\obj\Debug\Example3Skins.pdb
