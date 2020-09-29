@@ -4,3 +4,10 @@ c:\users\влад\documents\visual studio 2015\Projects\ConsoleApplication3\Cons
 c:\users\влад\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
 c:\users\влад\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 c:\users\влад\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\github\itstep_programming\itstep_programming\C#\дз лаба 8\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+F:\github\itstep_programming\itstep_programming\C#\дз лаба 8\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+F:\github\itstep_programming\itstep_programming\C#\дз лаба 8\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+F:\github\itstep_programming\itstep_programming\C#\дз лаба 8\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+F:\github\itstep_programming\itstep_programming\C#\дз лаба 8\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+F:\github\itstep_programming\itstep_programming\C#\дз лаба 8\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+F:\github\itstep_programming\itstep_programming\C#\дз лаба 8\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
