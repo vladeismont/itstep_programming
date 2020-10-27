@@ -35,7 +35,7 @@ namespace FileTransferService
             try
             {
 
-                return System.IO.File.ReadAllBytes(Path.Combine(AppDomain.CurrentDomain.BaseDirectory , "data\\" , fileInfo.FilePath));
+                return System.IO.File.ReadAllBytes(Path.Combine(AppDomain.CurrentDomain.BaseDirectory , "data" , fileInfo.FilePath));
             }
             catch (Exception e)
             {
@@ -47,7 +47,7 @@ namespace FileTransferService
         public List<File> GetFilesInfo()
         {
             List<File> list = new List<File>();
-            string[] files = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data\\"), " *.*",SearchOption.AllDirectories);
+            string[] files = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data"), " *.*",SearchOption.AllDirectories);
             foreach (string file in files)
             {
                 File fI = new File();
@@ -57,7 +57,7 @@ namespace FileTransferService
                 //str.Substring(10, str.Length - 10) skip or str = str.Substring(10);
                 //AppDomain.CurrentDomain.BaseDirectory + "\\data\\"
                 //fI.FilePath = file;
-                fI.FilePath = file.Replace(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data\\"), "");
+                fI.FilePath = file.Replace(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data"), "");
                 list.Add(fI);
             }
             return list;
