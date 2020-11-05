@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTransferService", "FileTransferService.csproj", "{37267597-34D9-47AB-B355-5FDDEFB31788}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Host", "..\Host\Host.csproj", "{31DBD788-8511-42CE-9800-90089F04ECA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostConsole", "..\HostConsole\HostConsole.csproj", "{9C23C062-E193-42E6-B234-7B1ADA4451DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{37267597-34D9-47AB-B355-5FDDEFB31788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37267597-34D9-47AB-B355-5FDDEFB31788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37267597-34D9-47AB-B355-5FDDEFB31788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31DBD788-8511-42CE-9800-90089F04ECA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DBD788-8511-42CE-9800-90089F04ECA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DBD788-8511-42CE-9800-90089F04ECA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DBD788-8511-42CE-9800-90089F04ECA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C23C062-E193-42E6-B234-7B1ADA4451DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C23C062-E193-42E6-B234-7B1ADA4451DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C23C062-E193-42E6-B234-7B1ADA4451DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C23C062-E193-42E6-B234-7B1ADA4451DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

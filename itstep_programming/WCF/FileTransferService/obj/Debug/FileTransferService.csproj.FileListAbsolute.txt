@@ -1,0 +1,5 @@
+F:\github\itstep_programming\itstep_programming\WCF\FileTransferService\bin\Debug\FileTransferService.dll
+F:\github\itstep_programming\itstep_programming\WCF\FileTransferService\bin\Debug\FileTransferService.pdb
+F:\github\itstep_programming\itstep_programming\WCF\FileTransferService\obj\Debug\FileTransferService.csproj.CoreCompileInputs.cache
+F:\github\itstep_programming\itstep_programming\WCF\FileTransferService\obj\Debug\FileTransferService.dll
+F:\github\itstep_programming\itstep_programming\WCF\FileTransferService\obj\Debug\FileTransferService.pdb
