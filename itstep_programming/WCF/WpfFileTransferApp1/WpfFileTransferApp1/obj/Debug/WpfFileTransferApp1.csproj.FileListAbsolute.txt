@@ -1,0 +1,15 @@
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\bin\Debug\WpfFileTransferApp1.exe.config
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\bin\Debug\WpfFileTransferApp1.exe
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\bin\Debug\WpfFileTransferApp1.pdb
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\MainWindow.g.cs
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\App.g.cs
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1_MarkupCompile.cache
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1_MarkupCompile.lref
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\MainWindow.baml
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1.g.resources
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1.Properties.Resources.resources
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1.csproj.GenerateResource.cache
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1.csproj.CoreCompileInputs.cache
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1.exe
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1.pdb
+F:\Step\step\exam\WCF\v1\WpfFileTransferApp1\WpfFileTransferApp1\obj\Debug\WpfFileTransferApp1.csprojAssemblyReference.cache

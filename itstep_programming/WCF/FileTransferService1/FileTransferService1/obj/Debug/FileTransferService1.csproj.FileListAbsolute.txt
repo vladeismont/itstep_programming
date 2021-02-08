@@ -1,0 +1,6 @@
+F:\Step\step\exam\WCF\v1\FileTransferService1\FileTransferService1\bin\Debug\FileTransferService1.dll
+F:\Step\step\exam\WCF\v1\FileTransferService1\FileTransferService1\bin\Debug\FileTransferService1.pdb
+F:\Step\step\exam\WCF\v1\FileTransferService1\FileTransferService1\obj\Debug\FileTransferService1.csproj.CoreCompileInputs.cache
+F:\Step\step\exam\WCF\v1\FileTransferService1\FileTransferService1\obj\Debug\FileTransferService1.dll
+F:\Step\step\exam\WCF\v1\FileTransferService1\FileTransferService1\obj\Debug\FileTransferService1.pdb
+F:\Step\step\exam\WCF\v1\FileTransferService1\FileTransferService1\obj\Debug\FileTransferService1.csprojAssemblyReference.cache

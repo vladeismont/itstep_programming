@@ -1,0 +1,10 @@
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\bin\Debug\HostConsole1.exe.config
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\bin\Debug\HostConsole1.exe
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\bin\Debug\HostConsole1.pdb
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\bin\Debug\FileTransferService1.dll
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\bin\Debug\FileTransferService1.pdb
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\obj\Debug\HostConsole1.csprojAssemblyReference.cache
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\obj\Debug\HostConsole1.csproj.CoreCompileInputs.cache
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\obj\Debug\HostConsole1.csproj.CopyComplete
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\obj\Debug\HostConsole1.exe
+F:\Step\step\exam\WCF\v1\FileTransferService1\HostConsole1\obj\Debug\HostConsole1.pdb
