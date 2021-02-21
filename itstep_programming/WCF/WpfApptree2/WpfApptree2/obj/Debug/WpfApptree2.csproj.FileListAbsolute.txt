@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\bin\Debug\WpfApptree2.exe.config
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\bin\Debug\WpfApptree2.exe
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\bin\Debug\WpfApptree2.pdb
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2_MarkupCompile.cache
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2_MarkupCompile.lref
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2.g.resources
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2.Properties.Resources.resources
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2.exe
+C:\Users\User\source\repos\WpfApptree2\WpfApptree2\obj\Debug\WpfApptree2.pdb
